@@ -12,13 +12,13 @@ INSTRUCTIONS:
 
 <!-- Header -->
 <h1 align="center">
-  Hi there! 👋 I'm <!-- TODO: Your first name here --> Gauresh
+  Hi there! 👋 I'm <!-- TODO: Your first name here --> poorvi
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h1>
 
 <!--
 TODO:
-- Change `gaureshpai` below to YOUR GitHub username
+- Change `poorvikshatriya` below to YOUR GitHub username
 - You can also change color or style if you want
   Docs: https://komarev.com/ghpvc/
 -->
@@ -64,21 +64,21 @@ TODO: Write 3–4 short points about yourself.
   <!--
   TODO:
   - Go to https://holopin.io, sign in, and get your own badge link if you want.
-  - Replace `gaureshpai` with YOUR Holopin username.
+  - Replace `poorvikshatriya' with YOUR Holopin username.
   - Or delete this block if you don't use Holopin.
   -->
-  <a href="https://holopin.io/@gaureshpai">
-    <img src="https://holopin.me/gaureshpai" alt="Holopin badges">
+  <a href="https://holopin.io/@poorvikshatriya">
+    <img src="https://holopin.me/poorvikshatriya" alt="Holopin badges">
   </a>
 
   <br><br>
 
   <!--
   TODO:
-  - Change `username=gaureshpai` to YOUR GitHub username
+  - Change `username=poorvikshatriya` to YOUR GitHub username
   -->
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaureshpai&theme=radical" alt="GitHub Summary Card">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poorvikshatriya&theme=radical" alt="GitHub Summary Card">
   </a>
 
 </div>
@@ -100,10 +100,10 @@ TODO: Write 3–4 short points about yourself.
 
   <!--
   TODO:
-  - Change `username=gaureshpai` to YOUR GitHub username
+  - Change `username=poorvikshatriya` to YOUR GitHub username
   - You can change theme and show_icons at: https://github.com/anuraghazra/github-readme-stats
   -->
-  <a href="https://github.com/gaureshpai">
+  <a href="https://github.com/poorvikshatriya">
     <img src="https://github-readme-stats.vercel.app/api?username=gaureshpai&show_icons=true&theme=tokyonight" alt="GitHub stats">
   </a>
 
